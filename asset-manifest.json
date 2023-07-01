@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yuns_website/static/css/main.7d8c5593.css",
+    "main.js": "/yuns_website/static/js/main.b29e99b5.js",
+    "static/js/787.39da4461.chunk.js": "/yuns_website/static/js/787.39da4461.chunk.js",
+    "static/media/image1.jpg": "/yuns_website/static/media/image1.3f822a78ed5ea201f4f9.jpg",
+    "index.html": "/yuns_website/index.html",
+    "main.7d8c5593.css.map": "/yuns_website/static/css/main.7d8c5593.css.map",
+    "main.b29e99b5.js.map": "/yuns_website/static/js/main.b29e99b5.js.map",
+    "787.39da4461.chunk.js.map": "/yuns_website/static/js/787.39da4461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8c5593.css",
+    "static/js/main.b29e99b5.js"
+  ]
+}
