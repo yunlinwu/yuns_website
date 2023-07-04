@@ -1,4 +1,8 @@
 .App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   text-align: center;
   font-family: Arial, sans-serif;
   max-width: 900px;
@@ -7,7 +11,14 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  display: flex;
+  flex-direction: column; /* Adjust this to 'row' if you want images side by side */
+  align-items: center;
+  justify-content: center;
+  background-color: #348cd0;
+  min-height: 50vh;
+  width: 100%;
+  box-sizing: border-box;
   padding: 2rem 0;
   color: white;
 }
@@ -45,5 +56,12 @@ a:hover {
 .App img {
   max-width: 100%;
   height: auto;
+  object-fit: cover;
+}
+
+.small-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 
