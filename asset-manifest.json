@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/yuns_website/static/css/main.7d8c5593.css",
-    "main.js": "/yuns_website/static/js/main.b29e99b5.js",
+    "main.css": "/yuns_website/static/css/main.f0fa63de.css",
+    "main.js": "/yuns_website/static/js/main.42fbda92.js",
     "static/js/787.39da4461.chunk.js": "/yuns_website/static/js/787.39da4461.chunk.js",
-    "static/media/image1.jpg": "/yuns_website/static/media/image1.3f822a78ed5ea201f4f9.jpg",
+    "static/media/Riversidepark.jpg": "/yuns_website/static/media/Riversidepark.0a74ae41bdd4f1e10e19.jpg",
+    "static/media/Great-Lawn.jpg": "/yuns_website/static/media/Great-Lawn.bca43c9ba49f89ff9b79.jpg",
     "index.html": "/yuns_website/index.html",
-    "main.7d8c5593.css.map": "/yuns_website/static/css/main.7d8c5593.css.map",
-    "main.b29e99b5.js.map": "/yuns_website/static/js/main.b29e99b5.js.map",
+    "main.f0fa63de.css.map": "/yuns_website/static/css/main.f0fa63de.css.map",
+    "main.42fbda92.js.map": "/yuns_website/static/js/main.42fbda92.js.map",
     "787.39da4461.chunk.js.map": "/yuns_website/static/js/787.39da4461.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d8c5593.css",
-    "static/js/main.b29e99b5.js"
+    "static/css/main.f0fa63de.css",
+    "static/js/main.42fbda92.js"
   ]
 }
